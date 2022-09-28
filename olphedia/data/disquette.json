@@ -1,0 +1,476 @@
+{
+    "disquettes": [
+        {
+            "id": "1",
+            "content": "J'ai besoin d'une attestation pour sortir avec toi ?"
+        },
+        {
+            "id": "2",
+            "content": "T'aurais pas envie de boire du pétrole avec moi pour devenir l'essence de mon coeur ? "
+        },
+        {
+            "id": "3",
+            "content": "Tu serais pas un stylo ? Parce que j'ai envie d'écrire une histoire avec toi"
+        },
+        {
+            "id": "4",
+            "content": "Tu serais pas une bougie ? Parce que tu me réchauffe le coeur"
+        },
+        {
+            "id": "5",
+            "content": "Tu serais pas un stylo ? Parce que je vois tout d'essentiel en toi"
+        },
+        {
+            "id": "6",
+            "content": "Est-ce que tu es mon devoir ? Car tu es ma priorité d'aujourd'hui."
+        },
+        {
+            "id": "7",
+            "content": "Tu serais pas une chips ? Parce que t'es croustillante"
+        },
+        {
+            "id": "8",
+            "content": "Tu serais pas de l'huile ? Parce que je vois tout d'essentiel en toi"
+        },
+        {
+            "id": "9",
+            "content": "Tu es comme un séisme pour moi, tu fais vibrer mon coeur"
+        },
+        {
+            "id": "10",
+            "content": "Si tu étais une prison je tuerais plein de gens pour rester longtemps en toi"
+        },
+        {
+            "id": "11",
+            "content": "Tu serais pas un avion ? Parce qu'avec toi on peut aller loin"
+        },
+        {
+            "id": "12",
+            "content": "Il a peut-être des milliers de kilomètres qui nous sépare mais rien séparera notre amour"
+        },
+        {
+            "id": "13",
+            "content": "J’ai vu que mon chauffage ne marchais plus tu pourrais venir réchauffer mon cœur ?"
+        },
+        {
+            "id": "14",
+            "content": "T'es pas essoufflée à force de courir dans ma tête ? "
+        },
+        {
+            "id": "15",
+            "content": "J'aimerai bien que tu sois ma déco de Noël histoire de te démonter après les fêtes"
+        },
+        {
+            "id": "16",
+            "content": "Ton père ne serait pas prof de maths ? Car il m'a passé les coordonnées de ton point G"
+        },
+        {
+            "id": "17",
+            "content": "Ça te dit un plan à trois ? Toi, moi et le bonheur"
+        },
+        {
+            "id": "18",
+            "content": "Ton père, ça serait pas Bob Marley ? Parce que t'es super bien roulée"
+        },
+        {
+            "id": "19",
+            "content": "Ton père, ça serait pas Bob Marley ? Parce que t'es super bien roulée"
+        },
+        {
+            "id": "20",
+            "content": "C'est le couvre-feu ! Pourquoi t'es toujours pas sorti de mon cœur pour rentrer chez toi !?"
+        },
+        {
+            "id": "21",
+            "content": "Dans la vie, il y a des hauts et des bas mais moi je préfère tout enlever"
+        },
+        {
+            "id": "22",
+            "content": "Est-ce que tu as un plan ? Je me suis perdu dans tes yeux"
+        },
+        {
+            "id": "23",
+            "content": "Tu ne serais pas Google ? Parce que tu es tout ce que je recherche"
+        },
+        {
+            "id": "24",
+            "content": "Je suis malade… Le médecin m'a conseillé de te prendre 5 fois par jour"
+        },
+        {
+            "id": "25",
+            "content": "Tu serais pas Titanic ? Parce que t'as fait chavirer mon cœur"
+        },
+        {
+            "id": "26",
+            "content": "J’espère que t’aime bien les cours d’histoire, parce que la nôtre ne s’arrêtera jamais"
+        },
+        {
+            "id": "27",
+            "content": "Mais attend !\nOn s'est déjà vu quelque part, non ? Tu ressembles énormément à mon prochain petit copain"
+        },
+        {
+            "id": "28",
+            "content": "Mbappé a peut-être raté son penalty, mais toi, tu m'as visé en plein cœur :cupid:"
+        },
+        {
+            "id": "29",
+            "content": "Tu es tellement belle qu'aucun miaou ne pourrait te décrire"
+        },
+        {
+            "id": "30",
+            "content": "Tu ne serais pas un(e) magicien(ne)? Car quand je te vois le monde entier disparaît."
+        },
+        {
+            "id": "31",
+            "content": "J'aimerais presque avoir un strabisme, pour te voir en double"
+        },
+        {
+            "id": "32",
+            "content": "Si la beauté étais une époque, tu serais l'éternité."
+        },
+        {
+            "id": "33",
+            "content": "T'aurais pas le pouvoir de te décupler ? Parce que je te vois dans tous mes rêves"
+        },
+        {
+            "id": "34",
+            "content": "Tu serais pas le i de Pixar ? Parce que j'ai envie de te sauter dessus"
+        },
+        {
+            "id": "35",
+            "content": "Dans le ciel, il y a des nuages, dans le désert, il y a des mirages et dans ma tête il y a ton visage"
+        },
+        {
+            "id": "36",
+            "content": "Si à chaque fois que je pensais à toi, il poussait une fleur, alors la Terre serait un immense jardin de roses"
+        },
+        {
+            "id": "37",
+            "content": "Tu sais pourquoi je te suis ? Parce que mon père m'a toujours dit de poursuivre mes rêves..."
+        },
+        {
+            "id": "38",
+            "content": "Moi sans toi, c'est comme un océan sans eau"
+        },
+        {
+            "id": "39",
+            "content": "T'es pas une conjugaison ? Parce que t'es plus-que-parfait"
+        },
+        {
+            "id": "40",
+            "content": "Tu as vu l'orage ? Parce que je crois bien que t'es mon coup de foudre"
+        },
+        {
+            "id": "41",
+            "content": "Ton prénom à l'envers n'a aucun sens comme ma vie sans toi"
+        },
+        {
+            "id": "42",
+            "content": "T'aurais pas activé ton bluetooth ? Parce que je sens qu'il y a une connexion entre nous"
+        },
+        {
+            "id": "43",
+            "content": "Tu serais pas un masque chirurgical ? Parce que je sens que je vais devoir sortir avec toi"
+        },
+        {
+            "id": "44",
+            "content": "Tu connais la définition du mot charmante? Non ? Regarde-toi dans un miroir et tu verras..."
+        },
+        {
+            "id": "45",
+            "content": "Ton père il serait pas dentiste ? Parce que tu m'as redonné le sourire"
+        },
+        {
+            "id": "46",
+            "content": "Tu serais pas une courbe exponentielle ? Parce que t'as aucun point négatif"
+        },
+        {
+            "id": "47",
+            "content": "Mince, j'ai voulu mettre un flocon mais il a fondu sous ton charme"
+        },
+        {
+            "id": "48",
+            "content": "Si t'étais un burger Mcdo, tu serais le McNifique"
+        },
+        {
+            "id": "49",
+            "content": "Ton père serait pas boxeur ? Parce que t'es hyper cute"
+        },
+        {
+            "id": "50",
+            "content": "Dans le royaume de mon cœur, t'es la princesse"
+        },
+        {
+            "id": "51",
+            "content": "T'as postulé chez Disney ? Ils sont à la recherche d'une nouvelle princesse"
+        },
+        {
+            "id": "52",
+            "content": "Je ne fume pas, je ne bois pas, et ma seule drogue, c'est toi"
+        },
+        {
+            "id": "53",
+            "content": "Tu serais pas (a+b)² ? Parce que t'es remarquable"
+        },
+        {
+            "id": "54",
+            "content": "Je serai ton flash, soit McQueen"
+        },
+        {
+            "id": "55",
+            "content": "Ton père travaille pas chez Nintendo ? Parce qu'il a mis au monde une DS"
+        },
+        {
+            "id": "56",
+            "content": "Ton père travaille pas chez Nintendo ? Parce qu'il a mis au monde une DS"
+        },
+        {
+            "id": "57",
+            "content": "Tu serais pas passée sur TF1 hier soir ? Parce qu'ils parlaient des avions de chasse"
+        },
+        {
+            "id": "58",
+            "content": "Même si il n'y avait plus de gravité sur terre, je tomberai toujours amoureux de toi"
+        },
+        {
+            "id": "59",
+            "content": "Tu fais quoi dans la vie ? À part me plaire..."
+        },
+        {
+            "id": "60",
+            "content": "Tu serais pas le diamant de Lil Uzi Vert ? Parce que t'es coincée dans ma tête"
+        },
+        {
+            "id": "61",
+            "content": "J'aimerai te faire un câlin mais le musée m'interdit de toucher les œuvres d'arts"
+        },
+        {
+            "id": "62",
+            "content": "Ton père est un voleur, il a volé toutes les étoiles du ciel pour les mettre dans tes yeux"
+        },
+        {
+            "id": "63",
+            "content": "Tu t'appellerais pas Netflix ? Parce que j'arrête pas de te mater"
+        },
+        {
+            "id": "64",
+            "content": "Notre amour c'est comme une chaise, si tu te retires, je tombe à terre"
+        },
+        {
+            "id": "65",
+            "content": "T'aimes pas les maths ? Parce qu'on pourrait soustraire nos vêtements et additionner nos corps"
+        },
+        {
+            "id": "66",
+            "content": "J'allais te sortir une disquette mais y a plus rien dans ma tête à part toi"
+        },
+        {
+            "id": "67",
+            "content": "T'aurais pas un extincteur ? Parce que mon cœur a pris feu en te voyant"
+        },
+        {
+            "id": "68",
+            "content": "Tombé d'un avion c'est haut, d'un arbre c'est haut mais tomber sous ton charme c'est beau"
+        },
+        {
+            "id": "69",
+            "content": "Tu serais pas une bière ? Car t'es pétillant(e) et je veux être avec toi toute la soirée"
+        },
+        {
+            "id": "70",
+            "content": "Je vais me reconvertir en sablier pour que tu puisses me retourner toutes les heures"
+        },
+        {
+            "id": "71",
+            "content": "On m’as dit que tu travaillais chez Air France c’est vrai ? Parce que j’ai envie que tu me montes en l’air"
+        },
+        {
+            "id": "72",
+            "content": "Le jour où je ne t’aimerai plus, ça sera le 31 fevrier... car se jour n’existera jamais"
+        },
+        {
+            "id": "73",
+            "content": "T’es pas un moustique ?! Parce que tu m’as piqué"
+        },
+        {
+            "id": "74",
+            "content": "Ton signe Astro ce serai pas lion ? Parce que t’es trop grr"
+        },
+        {
+            "id": "75",
+            "content": "Je t'aime, ich liebe dich, ti amo mais la langue que je préfère, c'est la tienne"
+        },
+        {
+            "id": "76",
+            "content": "Tu serais pas du papier bulles ? Car j'aimerai t'éclater tout les jours"
+        },
+        {
+            "id": "77",
+            "content": "J'ai pris la même claque que macron en voyant ta beauté"
+        },
+        {
+            "id": "78",
+            "content": "Tu serais pas un ascenseur ? Parce que j’aimerais bien que tu me soulève"
+        },
+        {
+            "id": "79",
+            "content": "Tu veux pas je sois ton chauffeur privé ? Pour te prendre matin et soir"
+        },
+        {
+            "id": "80",
+            "content": "Tu travaillerais pas dans un hôpital psychiatrique ? Parce que je suis fou de toi"
+        },
+        {
+            "id": "81",
+            "content": "Quand on est petit pour dormir il nous faut un doudou, maintenant c'est de toi dont j'ai besoin, je veux te serrer dans mes bras et dormir à jamais avec toi"
+        },
+        {
+            "id": "82",
+            "content": "Tu ne serais pas ma commande Shein ? Parce que je t'attend impatiemment"
+        },
+        {
+            "id": "83",
+            "content": "Tu serais pas le remède contre l’alzheimer ? Parce que t'es inoubliable"
+        },
+        {
+            "id": "84",
+            "content": "Tu serais pas une patate ? Car t’es vraiment douce"
+        },
+        {
+            "id": "85",
+            "content": "Je suis pas militaire mais je sais reconnaître un avion de chasse"
+        },
+        {
+            "id": "86",
+            "content": "ʇıן un suɐp ǝuıƃɐɯı ɔuop ǝƃɐssǝɯ un ɔǝʌɐ ɹǝuɹnoʇǝɹ ǝʇ ɐ ǝʌıɹɹɐ,ſ"
+        },
+        {
+            "id": "87",
+            "content": "Eh mademoiselle !! Tu serais pas une molécule de Dioxygène pure ? Parce que tu m'as coupé le souffle"
+        },
+        {
+            "id": "88",
+            "content": "Tu ne serais pas une biscotte ? Parce que tu es craquante !"
+        },
+        {
+            "id": "89",
+            "content": "J’aimerais être ton pyjama pour pouvoir dormir avec toi toutes les nuits."
+        },
+        {
+            "id": "90",
+            "content": "On devrait t’arrêter pour excès de beauté sur la voie public"
+        },
+        {
+            "id": "91",
+            "content": "Et j’ai un gros problème avec mon téléphone, il manque ton numéro."
+        },
+        {
+            "id": "92",
+            "content": "Excuse moi tu n’aurais pas l’heure ? Parce que depuis que je t’ai vue j’ai perdue la notion du temps."
+        },
+        {
+            "id": "93",
+            "content": "D’habitude je suis une très bonne nageuse mais la je comprends pas je me noie dans tes yeux."
+        },
+        {
+            "id": "94",
+            "content": "Je me suis perdue tu pourrais m’indiquer le chemin vers ton cœur ?"
+        },
+        {
+            "id": "95",
+            "content": "Dieu t’a tout donné mais il a oublié de te donner mon numéro…"
+        },
+        {
+            "id": "96",
+            "content": "Je peux t’appeler Ève ? Parce que tu es la première femme de mon cœur."
+        },
+        {
+            "id": "97",
+            "content": "Est-ce que t’as un pansement ? Je viens de m’écorcher le genou en tombant pour toi"
+        },
+        {
+            "id": "98",
+            "content": "Est-ce que je peux avoir ta photo ? C’est pour montrer au père noël ce que je veux comme cadeau."
+        },
+        {
+            "id": "99",
+            "content": "Ça te dirait qu'on prenne un parachute tout les deux ? Pour s'envoyer en l'air"
+        },
+        {
+            "id": "100",
+            "content": "Si j’étais astronaute je t’emmènerai voir la lune mais comme je suis boucher je n’ai que ma saucisse a te proposer..."
+        },
+        {
+            "id": "101",
+            "content": "Ton deuxième prénom serait pas Kurapika\nCar t'as enchaîné mon coeur"
+        },
+        {
+            "id": "102",
+            "content": "Sois ma chips que je te mange craquante que tu es"
+        },
+        {
+            "id": "103",
+            "content": "Tes yeux sont comme Ikea , je m'y perds dedans"
+        },
+        {
+            "id": "104",
+            "content": "7 milliards de sourires sur terre et pourtant c'est le tiens que je préfère"
+        },
+        {
+            "id": "105",
+            "content": "Ta mère se serait pas une huitre pour avoir créé une perle comme toi"
+        },
+        {
+            "id": "106",
+            "content": "Tu serais pas un Mentos parce que t'es tellement fraîche"
+        },
+        {
+            "id": "107",
+            "content": "Tu serai pas une agrafeuse? Car tu es trop attachante"
+        },
+        {
+            "id": "108",
+            "content": "J’ai beau chercher dans mon frigo y’a pas plus frais que toi ;)"
+        },
+        {
+            "id": "109",
+            "content": "lǝʇ uos ɹǝuɹnoʇǝɹ ɐ ɹǝʇnɐǝq ǝun"
+        },
+        {
+            "id": "110",
+            "content": "Je crois je suis daltonien parce que dès que je te voie je vois la vie en rose"
+        },
+        {
+            "id": "111",
+            "content": "J'aimerais être un larmes pour naître dans tes yeux, vivre sur ta joue et mourir sur tes lèvres"
+        },
+        {
+            "id": "112",
+            "content": "Tu serrais pas le noyau de la terre ? Parce que peu importe où je me situe je suis attiré par toi"
+        },
+        {
+            "id": "113",
+            "content": "Tu serais pas Bigflo ? Parce j’aimerais être Oli avec toi..."
+        },
+        {
+            "id": "114",
+            "content": "Tu serai pas un boxeurs? parce que tu m’a taper dans l’œil"
+        },
+        {
+            "id": "115",
+            "content": "Tu serais pas shoto ? Parce que t’as fait fondre mon cœur de glace"
+        },
+        {
+            "id": "116",
+            "content": "Tu veux pas être mon DM de maths? Parce que je te finirai bien sur mon bureau"
+        },
+        {
+        	"id": "117",
+        	"content": "Sache que si je devais t'embrasser pour ensuite aller en enfer je le ferais. Comme a je pourrais me vanter ensuite avec les diables d'avoir vu le paradis sans jamais y entrer"
+        },
+        {
+        	"id": "118",
+        	"content": "Tu serais pas le i  dans le verbe aimer ? Parce que la vie sans toi est amer :sparkles:"
+        }
+    ]
+}
